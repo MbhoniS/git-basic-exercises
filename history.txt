@@ -1,0 +1,369 @@
+    1  git
+    2  git add -A
+    3  git init
+    4  git add -A
+    5  git commit -m 'initial commit'
+    6  git init
+    7  git add -A
+    8  git commit -m 'initial commit'
+    9  git remote add origin [200~https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git~
+   10  git push origin main
+   11  git init
+   12  git add -A
+   13  git commit -m 'Initial project'
+   14  git config --global user.email "cmbhoni@gmail.com"
+   15  git config --global user.name "Mbhoni"
+   16  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+   17  git remote -v
+   18  git remote origin  https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git~ (fetch)
+   19  git remote add origin  https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git~ (push)
+   20  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+   21  git remote origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git (push)
+   22  git remote add https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+   23  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+   24  git push origin main
+   25  git init
+   26  git add -A
+   27  git commit -m "First commit"
+   28  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+   29  git push origin main
+   30  git push
+   31  git push --set-upstream origin master
+   32  git init
+   33  git add -A
+   34  git commit -m "First commit"
+   35  remote add https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+   36  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+   37  git push origin main
+   38  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-
+   39  git push origin main
+   40  /
+   41  git checkout main
+   42  git pull
+   43  git checkout -b number/1
+   44  touch level1codingchallenges
+   45  git commit -m "initial commit"
+   46   git push origin master
+   47  git
+   48  git checkout main
+   49  git pull
+   50  git checkout -b number/1
+   51  touch README.md
+   52  git add README.md
+   53  git add .
+   54  git init
+   55  git add README.md
+   56  git commit -m "first commit"
+   57  git branch -M main
+   58  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-219-level-1-programming-katas-javascript.git
+   59  git commit -m "First commit"
+   60  git push -u origin main
+   61  git init
+   62  git add -A
+   63  git commit -m 'Beginning Bash' 
+   64  git commit -m 'number_1' 
+   65  git add -B
+   66  clear
+   67  git init
+   68  git remote add https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+   69  git pull original master
+   70  git remote add https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+   71  -f
+   72  git status
+   73  clear
+   74  rm -rf.git/
+   75  rm -rf .git/
+   76  git init
+   77  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git 
+   78  git commit -m "First Commit"
+   79  git add -A
+   80  git push -f origin master
+   81  git push origin main
+   82  clear
+   83  git init
+   84  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git 
+   85  git commit -m "First Commit"
+   86  git add -A
+   87  git push -f origin master
+   88  checkout main
+   89  git pull
+   90  git checkout -b task/1
+   91  git checkout main
+   92  git init
+   93  git checkout main
+   94  git checkout master
+   95  git checkout -b main
+   96  git init
+   97  git add -A
+   98  git commit -m "Added Beggining Bash tasks"
+   99  git init
+  100  git add -A
+  101  git add
+  102  git add .
+  103  git add -A
+  104  git commit -m "Added Beggining Bash tasks"
+  105  git init
+  106  git add -A
+  107  git commit -m "Added Beggining Bash tasks"
+  108  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+  109  git push
+  110   git push --set-upstream origin main
+  111  git pull
+  112  git pull <remote> <main>
+  113  git pull remote main
+  114  git pull https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+  115  clear
+  116  git add _A
+  117  git add -A
+  118  git commit -m "Added Beggining Bash tasks"
+  119  git checkout master
+  120  git add -A
+  121  git commit -m "Added Beggining Bash tasks"
+  122  git checkout main
+  123  git status
+  124  git add Beginning Bash
+  125  git init
+  126  git add -A
+  127  git commit -m "Added Beginning Bash"
+  128  git add
+  129  git add .
+  130  git add -A
+  131  git commit -m "Added Beginning Bash"
+  132  git init
+  133  git add -A
+  134  git init
+  135  git add
+  136  git add .
+  137  cd /path/to/your/repository
+  138  cd /path/to/Beggining Bash Project
+  139  cd
+  140  cd /path/to/documents
+  141  cd /path/to/Beggining
+  142  clear
+  143  git init
+  144  git branch
+  145  git add .
+  146  git commit -m "Added Beginning Bash"
+  147  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+  148  git push origin main
+  149  git pull
+  150  git pull remote main
+  151  git pull main
+  152  git pull Beggining Bash Project
+  153  git pull https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+  154  git pull branch
+  155  git push
+  156   git push --set-upstream origin main
+  157  git pull
+  158  git branch --set-upstream-to=origin/<branch> main
+  159  clear
+  160  git add -A
+  161  git commit -m "Added Beginning Bash"
+  162  git init
+  163  git add -A
+  164  git commit -m "Added Beggining Bash"
+  165  checkout main
+  166  git checkout -b main
+  167  git commit -m "Added Beggining Bash"
+  168  git add -A
+  169  git commit -m "Added Beggining Bash"
+  170  git init
+  171  git add -A
+  172  git commit -m "First commit"
+  173  git init
+  174  git add .
+  175  git checkout -b main
+  176  git add .
+  177  git add -A
+  178  git commit -m "First commit"
+  179  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-394-bash-for-bootcamp-.git
+  180  git push origin main
+  181  git pull
+  182  git push
+  183   git push --set-upstream origin main
+  184  git pull
+  185  git pull remote main
+  186  git pull main
+  187   git push --set-upstream origin main
+  188  git pull
+  189  git push origin main
+  190  git 1s
+  191  git push 
+  192   git push --set-upstream origin main
+  193  git pull origin main
+  194  git push origin main --force
+  195  git init
+  196  git init
+  197  git add .
+  198  git checkout main
+  199  git checkout -b main
+  200  git add .
+  201  git commit -m "changes"
+  202  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-223-person-javascript.git
+  203  git push origin main
+  204  git pull
+  205  git push --force
+  206  git push --set-upstream origin main
+  207  git add .
+  208  git commit -m "added commit"
+  209  git add .
+  210  git commit -m "changed"
+  211  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-223-person-javascript.git
+  212  git push
+  213  git push --set-upstream origin main
+  214  git add .
+  215  git commit -m "changes"
+  216  git add .
+  217  git commit -m "changes"
+  218  git init
+  219  git add .
+  220  git commit -m "added"
+  221  git checkout main
+  222  git checkout -b main
+  223  git add .
+  224  git commit -m "added"
+  225  git add .
+  226  git commit -m "another commit"
+  227  git init
+  228  git remote add origin https://github.com/MbhoniS/My-website..git
+  229  git add .
+  230  git init
+  231  git remote add origin https://github.com/MbhoniS/My-website..git
+  232  git checkout -b main
+  233  git remote add origin https://github.com/MbhoniS/My-website..git
+  234  git add .
+  235  git commit -m "add website"
+  236  git push -u origin main
+  237  git push
+  238  git push --set-upstream origin main
+  239  git pull
+  240  git pull <remote> <branch>
+  241  git branch --set-upstream-to=origin/branch main
+  242   git branch --set-upstream-to=origin/<branch> main
+  243  clear
+  244  git add .
+  245  git commit -m "Initial commit"
+  246  git init
+  247  git add -A
+  248  git commit -m "Initial commit"
+  249  git init
+  250  git add .
+  251  git commit -m "Initial commit"
+  252  git ini
+  253  clear
+  254  git init
+  255  git remote add origin https://github.com/MbhoniS/My-website..git
+  256  clear
+  257  git push
+  258  git push --set-upstream origin main
+  259  git push --force
+  260  git branch -M main
+  261  git push -u origin main
+  262  git pull
+  263  git push
+  264  git push --set-upstream origin main
+  265  git push --help
+  266  git push origin HEAD
+  267  git push origin HEAD:main
+  268  clear
+  269  git fetch origin-push
+  270  git add .
+  271  git commit -m "initial commit"
+  272  git status
+  273  git branch
+  274  git fetch origin
+  275  git pull origin main
+  276  git checkout -b Create website
+  277  git checkout -b Website
+  278  git pull origin main --allow-unrelated-histories
+  279  git push
+  280  git push --set-upstream origin Website
+  281  clear
+  282  git init
+  283  git add .
+  284  git commit -m "Initial commit"
+  285  git commit -m "Another commit"
+  286  git push
+  287  mkdir
+  288  clear
+  289  git init
+  290  git add .
+  291  git commit -m " Initial commit"
+  292  git push
+  293  git init
+  294  git add .
+  295  git commit -m "Inital commit"
+  296  git pull
+  297  git init
+  298  git add -A
+  299  git commit -m "Initial commit"
+  300  git init
+  301  git add -A
+  302  git commit -m "Initial commit"
+  303  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-963-contentitem-.git
+  304  git push
+  305  git push --force
+  306  git init
+  307  git checkout main
+  308  git checkout -b main
+  309  git init
+  310  git add -A
+  311  git commit -m "Initial commit"
+  312  git push
+  313  git remote add origin https://github.com/Umuzi-org/Mbhoni-Chauke-963-contentitem-.git
+  314  git push
+  315  git push --set-upstream origin main
+  316  git pull
+  317  git pull
+  318  git push origin main
+  319  git pull
+  320  git pull origin main
+  321  git pull origin main --allow-unrelated-histories
+  322  mkdir git-basic-exercises
+  323  cd git-basic-exercises
+  324  ls -a
+  325  git init
+  326  ls -a
+  327  git status
+  328  touch README.md
+  329  ls -a
+  330  git status
+  331  git log
+  332  git add README
+  333  git add file README
+  334  git add README.md
+  335  git status
+  336  git commit -m "initial commit"
+  337  git log
+  338  q
+  339  nano README.md
+  340  cat README.md
+  341  git status
+  342  git commit -m "second commit"
+  343  git add README.md
+  344  git commit -m "second commit"
+  345  nano README.md
+  346  cat README.md
+  347  git status
+  348  git add README.md
+  349  git commit -m "third commit"
+  350  git log
+  351  git checkout 13e778b6a7bcc8d80024a52350e197fd5b1aa354
+  352  cat README.md
+  353  git checkout main
+  354  git checkout master
+  355  cat README.md
+  356  git branch
+  357  git checkout -b milkshake-flavours
+  358  git branch
+  359  git branch
+  360  nano milkshakes.md
+  361  git status
+  362  git add milkshakes.md
+  363  git commit -m "added initial flavours"
+  364  git log
+  365  git checkout master
+  366  git checkout -b history
+  367  git log
+  368  git branch
+  369  history > history.txt
